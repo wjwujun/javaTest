@@ -1,10 +1,6 @@
-package com.company.synchronizeD;
+package com.company.base.synchronizeD;
 
-public class MyThread extends Thread{
-    public MyThread(String name) {
-        super(name);
-    }
-
+public class MyRunable implements Runnable{
     @Override
     public void run() {
         synchronized(this) {
@@ -14,6 +10,7 @@ public class MyThread extends Thread{
                     System.out.println(Thread.currentThread().getName() + " loop " + i);
                 }
             } catch (InterruptedException ie) {
+
             }
         }
     }

@@ -1,4 +1,4 @@
-package com.company.runnable;
+package com.company.base.runnable;
 
 public class MyThread implements Runnable{
 

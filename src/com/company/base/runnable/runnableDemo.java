@@ -1,4 +1,4 @@
-package com.company.runnable;
+package com.company.base.runnable;
 
 /*
 Thread 和 Runnable 的不同点：

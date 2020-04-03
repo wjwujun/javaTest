@@ -1,4 +1,4 @@
-package com.company.synchronizeD;
+package com.company.base.synchronizeD;
 
 
 /*

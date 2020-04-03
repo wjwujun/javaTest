@@ -1,4 +1,4 @@
-package com.company.synchronizeD;
+package com.company.base.synchronizeD;
 
 public class Count {
     // 含有synchronized同步块的方法

@@ -1,4 +1,4 @@
-package com.company.thread;
+package com.company.base.thread;
 
 
 /*
